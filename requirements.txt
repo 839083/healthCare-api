@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+fastapi
+uvicorn
+tensorflow-cpu==2.15.0
+scikit-learn
+joblib
+pandas
+numpy
+gunicorn
+=======
+fastapi==0.109.0
+uvicorn==0.27.0
+gunicorn==21.2.0
+tensorflow==2.15.0
+scikit-learn==1.3.2
+joblib==1.3.2
+pandas==2.1.4
+numpy==1.26.2
+keras==3.0.0
+>>>>>>> 135dc95 (Switch to Docker deployment)
