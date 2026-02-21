@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 fastapi
 uvicorn
 tensorflow==2.15.0
-=======
-fastapi
-uvicorn
-tensorflow
-keras==3.0.0
->>>>>>> branch-name
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
